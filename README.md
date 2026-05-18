@@ -1,4 +1,4 @@
-![Chess AI Advisor icon](icon.png)
+<img src="icon.png" alt="KingFisher Logo" width="25%">
 # Kingfisher
 
 A fully offline desktop application that analyses a chess position from a move list and suggests the best next move. No internet connection, no API keys, no external chess engines required.
